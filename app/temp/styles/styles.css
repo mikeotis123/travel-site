@@ -1,0 +1,15 @@
+body {
+	background-color:green;
+	padding:10px;
+	-webkit-columns: 399px 2;
+	        columns: 399px 2;
+	color: #2f5572;
+}
+
+
+
+
+.box a {
+		display: block;
+		padding: 10px;
+	}
